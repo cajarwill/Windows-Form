@@ -1,0 +1,12 @@
+C:\Users\PERSONAL\Pictures\Fase2_YisethMartin\Fase2_YisethMartin\bin\Debug\Fase2_YisethMartin.exe.config
+C:\Users\PERSONAL\Pictures\Fase2_YisethMartin\Fase2_YisethMartin\bin\Debug\Fase2_YisethMartin.exe
+C:\Users\PERSONAL\Pictures\Fase2_YisethMartin\Fase2_YisethMartin\bin\Debug\Fase2_YisethMartin.pdb
+C:\Users\PERSONAL\Pictures\Fase2_YisethMartin\Fase2_YisethMartin\obj\Debug\Fase2_YisethMartin.csproj.AssemblyReference.cache
+C:\Users\PERSONAL\Pictures\Fase2_YisethMartin\Fase2_YisethMartin\obj\Debug\Fase2_YisethMartin.FrmLogin.resources
+C:\Users\PERSONAL\Pictures\Fase2_YisethMartin\Fase2_YisethMartin\obj\Debug\Fase2_YisethMartin.FrmRegistroDatos.resources
+C:\Users\PERSONAL\Pictures\Fase2_YisethMartin\Fase2_YisethMartin\obj\Debug\Fase2_YisethMartin.FrmReporte.resources
+C:\Users\PERSONAL\Pictures\Fase2_YisethMartin\Fase2_YisethMartin\obj\Debug\Fase2_YisethMartin.Properties.Resources.resources
+C:\Users\PERSONAL\Pictures\Fase2_YisethMartin\Fase2_YisethMartin\obj\Debug\Fase2_YisethMartin.csproj.GenerateResource.cache
+C:\Users\PERSONAL\Pictures\Fase2_YisethMartin\Fase2_YisethMartin\obj\Debug\Fase2_YisethMartin.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\Pictures\Fase2_YisethMartin\Fase2_YisethMartin\obj\Debug\Fase2_YisethMartin.exe
+C:\Users\PERSONAL\Pictures\Fase2_YisethMartin\Fase2_YisethMartin\obj\Debug\Fase2_YisethMartin.pdb
